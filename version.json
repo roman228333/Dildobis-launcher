@@ -1,6 +1,6 @@
 {
-    "version": "2.3",
-    "url": "ВСТАВЬ_СЮДА_ССЫЛКУ_НА_EXE",
-    "sha256": "ВСТАВЬ_СЮДА_ХЕШ",
+    "version": "2.4",
+    "url": "https://github.com/roman228333/Dildobis-launcher/releases/download/2.4/DildobisLauncher.exe",
+    "sha256": "01500a9dbea22096160e2b6ecc0f3bb6809b52602b1b4dd7b0af2235c6d3df3f",
     "notes": "Добавлена вкладка «Сборки», установка Fabric/Forge/NeoForge/Quilt, установка OptiFine, поддержка прокси для обхода блокировок Modrinth, система автообновления."
 }
